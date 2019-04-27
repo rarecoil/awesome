@@ -452,6 +452,7 @@
 - [Web Security](https://github.com/qazbnm456/awesome-web-security#readme) - Security of web apps & services.
 - [Lockpicking](https://github.com/meitar/awesome-lockpicking#readme) - The art of unlocking a lock by manipulating its components without the key.
 - [Cybersecurity Blue Team](https://github.com/meitar/awesome-cybersecurity-blueteam#readme) - Groups of individuals who identify security flaws in information technology systems.
+- [Vulnerable Web Applications](https://github.com/rarecoil/awesome-dva#readme) - A list of vulnerable web applications and VMs to test security skills.
 
 
 ## Content Management Systems
